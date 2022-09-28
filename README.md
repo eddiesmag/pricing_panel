@@ -1,2 +1,2 @@
 # Pricing Panel
-A responsive Pricing Panel Made with pure html &amp; css
+A responsive Pricing Panel made with pure html &amp; css
